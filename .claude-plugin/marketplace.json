@@ -1,0 +1,6 @@
+{
+  "name": "read-preview",
+  "description": "read-preview: see the images Claude reads, right in the transcript",
+  "owner": { "name": "wtckk" },
+  "plugins": [{ "name": "read-preview", "source": "./" }]
+}

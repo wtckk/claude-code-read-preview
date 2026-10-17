@@ -1,0 +1,1 @@
+{ "name": "read-preview", "version": "0.1.0", "description": "Shows a thumbnail above the prompt of each image Claude reads with the Read tool", "types": "./types/index.d.ts" }
